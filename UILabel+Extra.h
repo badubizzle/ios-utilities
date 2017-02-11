@@ -1,0 +1,3 @@
+@interface UILabel(Extra)
+
+@end
